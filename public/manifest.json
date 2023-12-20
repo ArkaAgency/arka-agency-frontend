@@ -1,0 +1,15 @@
+{
+  "short_name": "Arka - Forever Improving",
+  "name": "Arka Agency - Leads your Ideas to Success",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
